@@ -1,0 +1,24 @@
+{
+  "name": "react-modular-store-web",
+  "version": "0.0.7",
+  "private": false,
+  "main": "dist/index.js",
+  "author": "Milan Gallo <gallo.milan.jr@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgallom/react-modular-store-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xgallom/react-modular-store-web/issues"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "react-modular-store": "0.0.7"
+  }
+}
